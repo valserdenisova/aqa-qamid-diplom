@@ -11,7 +11,7 @@
 
 *  **Для запуска приложения поочередно ввести команды в терминале IntelliJ IDEA**
 
-   * `docker pull mysql`
+   * `docker pull mysql/mysql-server:latest`
      
    * `docker-compose up`
      
